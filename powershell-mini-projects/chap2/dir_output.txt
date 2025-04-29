@@ -1,0 +1,10 @@
+
+    Directory: C:\Users\nhuyn\powershell-programming
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           4/28/2025  1:53 PM                intro-to-scripting
+d----           4/29/2025  9:39 AM                powershell-mini-projects
+-a---           4/29/2025  9:48 AM              0 dir_output.txt
+-a---           4/28/2025  3:36 PM            103 README.md
+
